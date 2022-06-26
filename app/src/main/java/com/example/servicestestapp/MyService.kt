@@ -28,6 +28,8 @@ class MyService: Service() {
             }
         }
         return START_REDELIVER_INTENT
+        //START_STICKY -- restart
+        //START_NOT_STICKY -- not restart
     }
 
     // сервис уничтож.
