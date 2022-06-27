@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"/>
 
         <Button
-            android:id="@+id/btnJobDispatcher"
+            android:id="@+id/btnJobScheduler"
             android:text="@string/job_dispatcher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>

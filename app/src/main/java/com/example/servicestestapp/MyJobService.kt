@@ -47,4 +47,8 @@ class MyJobService: JobService() {
         Log.d("ServiceTag","MyJobService() $msg")
     }
 
+    companion object{
+        const val JOB_ID = 100
+    }
+
 }
